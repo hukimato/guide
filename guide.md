@@ -173,6 +173,8 @@
 Про ZeroOmega  
 Это [расширение](https://chromewebstore.google.com/detail/proxy-switchyomega-3-zero/pfnededegaaopdmhkdmcofjmoldfiped) для хромиум браузеров. Позволяет использовать прокси для отправки отдельных запросов через браузер. В комбинации с throne настройки выглядят как-то так:
 ![local-proxy-settings](https://github.com/hukimato/guide/blob/main/img/local-proxy-settings.png)
+Дальше стоит в значке расширения включить режим auto-switch. Оно будет само определять ресурсы, которые не получалось запросить напрямую, и предлагать переключить их закрузку через другой профиль (тут надо выбрать профиль прокси)
+![ext-settings](https://github.com/hukimato/guide/blob/main/img/ext-settings.png)
 
 ### И в заключение
 Для работы на ПК мне хватает ВПН-клиента в режиме прокси + zapret + ZeroOmega для браузера. Такая комбинация закрывает 95% проблем с доступностью ресурсов. Остальные 5% обычно связаны с какими-то играми.   
